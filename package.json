@@ -1,0 +1,22 @@
+{
+  "name": "test_ez_dash",
+  "version": "1.0.0",
+  "description": "jush test how to public package npm",
+  "main": "mpdgen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndaChain/Test_EZ_Dash.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "StarStrike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndaChain/Test_EZ_Dash/issues"
+  },
+  "homepage": "https://github.com/AndaChain/Test_EZ_Dash#readme"
+}
